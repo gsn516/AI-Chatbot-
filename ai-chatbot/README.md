@@ -32,3 +32,9 @@ Contributions are welcome. Please submit a pull request with your changes.
 
 ## License
 This project is licensed under the MIT License.
+
+## Demo Video
+
+![AI Hospital Chatbot Demo](./chatbot_demo.mp4)
+
+You can watch the video directly by clicking the link above.
