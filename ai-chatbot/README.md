@@ -18,7 +18,7 @@ This project is an AI-powered chatbot designed for a hospital setting. It handle
 
 ## Installation
 To install and run this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/Kalyanbabuallamudi/AI-Hospital-Chatbot.git`
+1. Clone the repository: `git clone https://github.com/Kalyanbabuallamudi/AI-Chatbot-`
 2. Navigate into the project directory: `cd AI-Hospital-Chatbot`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the application: `python app.py`
